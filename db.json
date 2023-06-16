@@ -7,7 +7,10 @@
       "duration": "120 minutes",
       "language": "English",
       "synopsis": "Movie 1 synopsis goes here.",
-      "releasingIn": ["Location 1", "Location 3"]
+      "releasingIn": [
+        "Location 1",
+        "Location 3"
+      ]
     },
     {
       "id": "2",
@@ -16,7 +19,10 @@
       "duration": "90 minutes",
       "language": "Spanish",
       "synopsis": "Movie 2 synopsis goes here.",
-      "releasingIn": ["Location 2", "Location 4"]
+      "releasingIn": [
+        "Location 2",
+        "Location 4"
+      ]
     },
     {
       "id": "3",
@@ -25,7 +31,10 @@
       "duration": "110 minutes",
       "language": "French",
       "synopsis": "Movie 3 synopsis goes here.",
-      "releasingIn": ["Location 3", "Location 5"]
+      "releasingIn": [
+        "Location 3",
+        "Location 5"
+      ]
     },
     {
       "id": "4",
@@ -34,7 +43,10 @@
       "duration": "105 minutes",
       "language": "German",
       "synopsis": "Movie 4 synopsis goes here.",
-      "releasingIn": ["Location 1", "Location 4"]
+      "releasingIn": [
+        "Location 1",
+        "Location 4"
+      ]
     },
     {
       "id": "5",
@@ -43,7 +55,10 @@
       "duration": "100 minutes",
       "language": "English",
       "synopsis": "Movie 5 synopsis goes here.",
-      "releasingIn": ["Location 2", "Location 3"]
+      "releasingIn": [
+        "Location 2",
+        "Location 3"
+      ]
     },
     {
       "id": "6",
@@ -52,7 +67,10 @@
       "duration": "130 minutes",
       "language": "Spanish",
       "synopsis": "Movie 6 synopsis goes here.",
-      "releasingIn": ["Location 4", "Location 5"]
+      "releasingIn": [
+        "Location 4",
+        "Location 5"
+      ]
     },
     {
       "id": "7",
@@ -61,7 +79,10 @@
       "duration": "95 minutes",
       "language": "French",
       "synopsis": "Movie 7 synopsis goes here.",
-      "releasingIn": ["Location 1", "Location 6"]
+      "releasingIn": [
+        "Location 1",
+        "Location 6"
+      ]
     },
     {
       "id": "8",
@@ -70,7 +91,10 @@
       "duration": "115 minutes",
       "language": "German",
       "synopsis": "Movie 8 synopsis goes here.",
-      "releasingIn": ["Location 3", "Location 7"]
+      "releasingIn": [
+        "Location 3",
+        "Location 7"
+      ]
     },
     {
       "id": "9",
@@ -79,7 +103,10 @@
       "duration": "110 minutes",
       "language": "English",
       "synopsis": "Movie 9 synopsis goes here.",
-      "releasingIn": ["Location 2", "Location 8"]
+      "releasingIn": [
+        "Location 2",
+        "Location 8"
+      ]
     },
     {
       "id": "10",
@@ -88,7 +115,10 @@
       "duration": "95 minutes",
       "language": "Spanish",
       "synopsis": "Movie 10 synopsis goes here.",
-      "releasingIn": ["Location 4", "Location 9"]
+      "releasingIn": [
+        "Location 4",
+        "Location 9"
+      ]
     },
     {
       "id": "11",
@@ -97,7 +127,10 @@
       "duration": "125 minutes",
       "language": "French",
       "synopsis": "Movie 11 synopsis goes here.",
-      "releasingIn": ["Location 1", "Location 10"]
+      "releasingIn": [
+        "Location 1",
+        "Location 10"
+      ]
     },
     {
       "id": "12",
@@ -106,7 +139,10 @@
       "duration": "100 minutes",
       "language": "German",
       "synopsis": "Movie 12 synopsis goes here.",
-      "releasingIn": ["Location 5", "Location 11"]
+      "releasingIn": [
+        "Location 5",
+        "Location 11"
+      ]
     },
     {
       "id": "13",
@@ -115,7 +151,10 @@
       "duration": "105 minutes",
       "language": "English",
       "synopsis": "Movie 13 synopsis goes here.",
-      "releasingIn": ["Location 2", "Location 12"]
+      "releasingIn": [
+        "Location 2",
+        "Location 12"
+      ]
     },
     {
       "id": "14",
@@ -124,7 +163,10 @@
       "duration": "115 minutes",
       "language": "Spanish",
       "synopsis": "Movie 14 synopsis goes here.",
-      "releasingIn": ["Location 3", "Location 13"]
+      "releasingIn": [
+        "Location 3",
+        "Location 13"
+      ]
     },
     {
       "id": "15",
@@ -133,7 +175,10 @@
       "duration": "110 minutes",
       "language": "French",
       "synopsis": "Movie 15 synopsis goes here.",
-      "releasingIn": ["Location 5", "Location 14"]
+      "releasingIn": [
+        "Location 5",
+        "Location 14"
+      ]
     },
     {
       "id": "16",
@@ -142,7 +187,10 @@
       "duration": "100 minutes",
       "language": "German",
       "synopsis": "Movie 16 synopsis goes here.",
-      "releasingIn": ["Location 2", "Location 15"]
+      "releasingIn": [
+        "Location 2",
+        "Location 15"
+      ]
     },
     {
       "id": "17",
@@ -151,7 +199,10 @@
       "duration": "120 minutes",
       "language": "English",
       "synopsis": "Movie 17 synopsis goes here.",
-      "releasingIn": ["Location 4", "Location 16"]
+      "releasingIn": [
+        "Location 4",
+        "Location 16"
+      ]
     },
     {
       "id": "18",
@@ -160,7 +211,10 @@
       "duration": "95 minutes",
       "language": "Spanish",
       "synopsis": "Movie 18 synopsis goes here.",
-      "releasingIn": ["Location 1", "Location 17"]
+      "releasingIn": [
+        "Location 1",
+        "Location 17"
+      ]
     },
     {
       "id": "19",
@@ -169,7 +223,10 @@
       "duration": "125 minutes",
       "language": "French",
       "synopsis": "Movie 19 synopsis goes here.",
-      "releasingIn": ["Location 3", "Location 18"]
+      "releasingIn": [
+        "Location 3",
+        "Location 18"
+      ]
     },
     {
       "id": "20",
@@ -178,7 +235,10 @@
       "duration": "110 minutes",
       "language": "German",
       "synopsis": "Movie 20 synopsis goes here.",
-      "releasingIn": ["Location 4", "Location 19"]
+      "releasingIn": [
+        "Location 4",
+        "Location 19"
+      ]
     }
   ],
   "locations": [
@@ -260,10 +320,7 @@
     },
     {
       "id": "20",
-      "name": "Location 20"
+      "name": "location20"
     }
   ]
 }
-
-
-
