@@ -8,7 +8,8 @@
       "trailerUrl": "https://youtu.be/9vwaD9cHLNw",
       "price": 250,
       "occupied": [45,46,47,48],
-      "genre":"Superhero Action"
+      "genre":"Superhero Action",
+      "rating":6.5
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "trailerUrl": "https://youtu.be/O1vDPCGygkQ",
       "price": 150,
       "occupied": [45,60,34,35],
-      "genre":"Thriller Action"
+      "genre":"Thriller Action",
+      "rating":6.5
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "trailerUrl": "https://youtu.be/BqQNO7BzN08",
       "price": 250,
       "occupied": [55,56,57,58],
-      "genre":"Horror Thriller"
+      "genre":"Horror Thriller",
+      "rating":7.5
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "trailerUrl": "https://youtu.be/3Ap4ww9Ap-0",
       "price": 150,
       "occupied": [45,46,47,48],
-      "genre":"Psychological Thriller"
+      "genre":"Psychological Thriller",
+      "rating":9.5
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "trailerUrl": "https://youtu.be/K-EMszLvRIQ",
       "price": 150,
       "occupied": [35,46,47,38],
-      "genre":"Crime Action"
+      "genre":"Crime Action",
+      "rating":7.5
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "trailerUrl": "https://youtu.be/Zi88i4CpHe4",
       "price": 150,
       "occupied": [45,46,47,48],
-      "genre":"Superhero Action"
+      "genre":"Superhero Action",
+      "rating":8.5
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "trailerUrl": "https://youtu.be/M25zXBIUVr0",
       "price": 150,
       "occupied": [25,26,27,28],
-      "genre":"Thriller Action"
+      "genre":"Thriller Action",
+      "rating":5.5
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "trailerUrl": "https://youtu.be/shW9i6k8cB0",
       "price": 150,
       "occupied": [45,46,47,48],
-      "genre":"Adventure Action"
+      "genre":"Adventure Action",
+      "rating":7.5
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "trailerUrl": "https://youtu.be/lS1KScfdr70",
       "price": 150,
       "occupied": [45,46,47,48],
-      "genre":"Comedy Action"
+      "genre":"Comedy Action",
+      "rating":8.5
 
     },
     {
@@ -99,7 +108,8 @@
       "trailerUrl": "https://youtu.be/k8qGElYoAoU",
       "price": 250,
       "occupied": [45,46,47,48,49],
-      "genre":"Thriller Mystery Crime"
+      "genre":"Thriller Mystery Crime",
+      "rating":9.5
 
     },
     {
@@ -110,7 +120,8 @@
       "trailerUrl": "https://youtu.be/bm0vfvs4qY0",
       "price": 200,
       "occupied": [23,24,25,26,27],
-      "genre":"Adventure"
+      "genre":"Adventure",
+      "rating":5.5
 
     },
     {
@@ -121,7 +132,8 @@
       "trailerUrl": "https://youtu.be/bA00GJQbS1s",
       "price": 150,
       "occupied": [35,36,56,57,58],
-      "genre":"Mystery Crime"
+      "genre":"Mystery Crime",
+      "rating":8.5
     },
     {
       "id": 13,
@@ -131,7 +143,8 @@
       "trailerUrl": "https://youtu.be/vqu4z34wENw",
       "price": 200,
       "occupied": [34,35,36,37,38],
-      "genre":"Action Thriller"
+      "genre":"Action Thriller",
+      "rating":8
 
     },
     {
@@ -142,7 +155,8 @@
       "trailerUrl": "https://youtu.be/hpwnlr-ZHB0",
       "price": 150,
       "occupied": [34,35,40,23,50],
-      "genre":"Action Crime"
+      "genre":"Action Crime",
+      "rating":8.5
 
     },
     {
@@ -153,7 +167,8 @@
       "trailerUrl": "https://youtu.be/vCTt_PnWHPg",
       "price": 200,
       "occupied": [12,23,24,45],
-      "genre":"Action Crime"
+      "genre":"Action Crime",
+      "rating":8.5
     }  
   ]
 }
